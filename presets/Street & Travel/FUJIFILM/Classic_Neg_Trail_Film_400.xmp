@@ -1,0 +1,57 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description rdf:about="" crs:PresetType="Normal" crs:Cluster="" crs:UUID="36466E6E53B54D3DA22066302AAFAA84" crs:SupportsAmount="False" crs:SupportsColor="True" crs:SupportsMonochrome="False" crs:SupportsNormalDynamicRange="True" crs:SupportsHighDynamicRange="True" crs:CameraModelRestriction="Fujifilm X-T5" crs:HasSettings="True" crs:Version="15.0" crs:ProcessVersion="11.0" crs:Treatment="Color" crs:ToneCurveName2012="Custom" crs:Contrast2012="-14" crs:Highlights2012="-32" crs:Shadows2012="+20" crs:Whites2012="-8" crs:Blacks2012="+13" crs:Vibrance="+4" crs:Saturation="-8" crs:Texture="-3" crs:Clarity2012="-7" crs:Dehaze="-2" crs:GrainAmount="+24" crs:GrainSize="+28" crs:GrainFrequency="+45" crs:PostCropVignetteAmount="-10" crs:HueAdjustmentOrange="-2" crs:SaturationAdjustmentOrange="+5" crs:LuminanceAdjustmentOrange="+11" crs:HueAdjustmentYellow="-9" crs:SaturationAdjustmentYellow="-15" crs:HueAdjustmentGreen="-16" crs:SaturationAdjustmentGreen="-24" crs:LuminanceAdjustmentGreen="+12" crs:SaturationAdjustmentBlue="-18" crs:LuminanceAdjustmentBlue="+6" crs:SaturationAdjustmentAqua="-12" crs:ColorGradeShadowHue="214" crs:ColorGradeShadowSat="7" crs:ColorGradeHighlightHue="44" crs:ColorGradeHighlightSat="12" crs:ColorGradeMidtoneHue="33" crs:ColorGradeMidtoneSat="6" crs:ColorGradeBlending="58" crs:ColorGradeBalance="12" crs:CameraProfile="Camera CLASSIC Neg">
+      <crs:Name>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Classic Neg - Trail Film 400</rdf:li>
+        </rdf:Alt>
+      </crs:Name>
+      <crs:SortName>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Classic Neg - Trail Film 400</rdf:li>
+        </rdf:Alt>
+      </crs:SortName>
+      <crs:Group>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Street &amp; Travel / FUJIFILM</rdf:li>
+        </rdf:Alt>
+      </crs:Group>
+      <crs:Description>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">控えめな彩度と粒子で旅のノスタルジー。旧版推奨のClassic Neg.を採用 / Fujifilm X-T5 RAF / Camera CLASSIC Neg by crs:CameraProfile and crs:Look.</rdf:li>
+        </rdf:Alt>
+      </crs:Description>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 14</rdf:li>
+          <rdf:li>32, 39</rdf:li>
+          <rdf:li>64, 70</rdf:li>
+          <rdf:li>128, 131</rdf:li>
+          <rdf:li>192, 190</rdf:li>
+          <rdf:li>255, 243</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Red>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Red>
+      <crs:ToneCurvePV2012Green>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Green>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+    <crs:Look><rdf:Description crs:Name="Camera CLASSIC Neg" crs:Amount="1" crs:UUID="20BE890A36DB4DBD990DD984231D15DB" crs:SupportsAmount="false" crs:SupportsMonochrome="false" crs:SupportsOutputReferred="false" crs:CameraModelRestriction="Fujifilm X-T5" crs:Stubbed="true"><crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Profiles</rdf:li></rdf:Alt></crs:Group></rdf:Description></crs:Look></rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
+
+<?xpacket end="w"?>

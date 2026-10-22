@@ -1,0 +1,57 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description rdf:about="" crs:PresetType="Normal" crs:Cluster="" crs:UUID="09C3B302FEBC4F97AD78470EB7D648A1" crs:SupportsAmount="False" crs:SupportsColor="True" crs:SupportsMonochrome="False" crs:SupportsNormalDynamicRange="True" crs:SupportsHighDynamicRange="True" crs:CameraModelRestriction="Fujifilm X-T5" crs:HasSettings="True" crs:Version="15.0" crs:ProcessVersion="11.0" crs:Treatment="Color" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="False" crs:ConvertToGrayscale="False" crs:CameraProfile="Camera ETERNA/Cinema" crs:Contrast2012="+3" crs:Highlights2012="-40" crs:Shadows2012="+27" crs:Whites2012="-8" crs:Blacks2012="+2" crs:Texture="-2" crs:Clarity2012="-4" crs:Dehaze="-1" crs:Vibrance="+10" crs:Saturation="-3" crs:ColorGradeShadowHue="+190" crs:ColorGradeShadowSat="+6" crs:ColorGradeShadowLum="0" crs:ColorGradeMidtoneHue="+30" crs:ColorGradeMidtoneSat="+1" crs:ColorGradeMidtoneLum="0" crs:ColorGradeHighlightHue="+41" crs:ColorGradeHighlightSat="+6" crs:ColorGradeHighlightLum="0" crs:ColorGradeBlending="+60" crs:ColorGradeBalance="-1" crs:GrainAmount="+10" crs:GrainSize="+22" crs:GrainFrequency="+42" crs:PostCropVignetteAmount="-4" crs:PostCropVignetteMidpoint="+50" crs:PostCropVignetteFeather="+76" crs:ToneCurveName2012="Custom" crs:SaturationAdjustmentRed="-3" crs:HueAdjustmentOrange="-2" crs:SaturationAdjustmentOrange="+1" crs:LuminanceAdjustmentOrange="+6" crs:HueAdjustmentYellow="-9" crs:SaturationAdjustmentYellow="-12" crs:LuminanceAdjustmentYellow="+6" crs:HueAdjustmentGreen="+5" crs:SaturationAdjustmentGreen="-18" crs:LuminanceAdjustmentGreen="-2" crs:HueAdjustmentAqua="-5" crs:SaturationAdjustmentAqua="-12" crs:LuminanceAdjustmentAqua="+1" crs:HueAdjustmentBlue="-5" crs:SaturationAdjustmentBlue="-14" crs:LuminanceAdjustmentBlue="-5">
+      <crs:Name>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Kodak Vision3 250D - Cinema Daylight</rdf:li>
+        </rdf:Alt>
+      </crs:Name>
+      <crs:SortName>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Kodak Vision3 250D - Cinema Daylight</rdf:li>
+        </rdf:Alt>
+      </crs:SortName>
+      <crs:Group>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Street &amp; Travel / KODAK</rdf:li>
+        </rdf:Alt>
+      </crs:Group>
+      <crs:Description>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">FUJIFILM X-T5 RAF | Kodak-inspired emulation, not an official Kodak profile. Vision3 250D inspired: soft cinematic dynamic range and subtle highlight warmth</rdf:li>
+        </rdf:Alt>
+      </crs:Description>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 4</rdf:li>
+          <rdf:li>32, 30</rdf:li>
+          <rdf:li>64, 62</rdf:li>
+          <rdf:li>128, 129</rdf:li>
+          <rdf:li>192, 193</rdf:li>
+          <rdf:li>255, 250</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Red>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Red>
+      <crs:ToneCurvePV2012Green>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Green>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
+
+<?xpacket end="w"?>
