@@ -2,14 +2,14 @@
 
 富士フイルム（FUJIFILM）のカメラ向けに、フィルムシミュレーションをベースとして調整したAdobe Lightroom用プリセット集です。Camera Matchingプロファイルを使用し、色彩・階調・粒子感などを撮影対象やスタイルに合わせて整えています。
 
-現在収録している23種類のXMPプリセットは、FUJIFILM X-T5で撮影したRAW（RAF）専用です。他機種での互換性は未確認です。FUJIFILM系のほか、同じCamera Matchingを土台にしたSIGMA BF風・Kodakフィルム風のスタイルを含み、11カテゴリで管理しています。
+現在収録している24種類のXMPプリセットは、FUJIFILM X-T5で撮影したRAW（RAF）専用です。他機種での互換性は未確認です。FUJIFILM系のほか、同じCamera Matchingを土台にしたSIGMA BF風・Kodakフィルム風のスタイルを含み、11カテゴリで管理しています。
 
 ## フォルダー構成
 
 ```text
 presets/
   Daily & Cafe/
-    FUJIFILM/         2種類
+    FUJIFILM/         3種類
     KODAK/            1種類
   Landscape/
     FUJIFILM/         5種類
@@ -50,3 +50,13 @@ Kodak系はFUJIFILM Camera Matchingをベースにした近似表現です。
 - 今回の作業ではZIPは作成していません。Lightroom実機での適用は未検証です。
 
 `docs/README_JA.txt` は受領時の説明を保持したものです。現在の配置・今回の検証範囲はこのREADMEを参照してください。
+
+## 追加プリセット（2026-10-22）
+
+- **Classic Chrome - Classic Moody**（Daily & Cafe / FUJIFILM）
+- Camera Matching：`Camera CLASSIC CHROME`
+- 暖かいテラコッタ色の光、わずかに青い暗部、深い黒。粒子は加えず、シャープネスを控えめにしています。
+- 露出・ホワイトバランスは固定しません。木製家具、カフェ、日なたと日陰が分かれる場面に向いています。
+- カメラ内レシピの直接変換ではなく、参考画像から設計した近似表現です。フラットな光を参考写真と同じ強い陰影に変えるものではありません。
+- 新規XMPのXML・プロファイル・名称・カテゴリ・重複・チェックサムを検証。Lightroom実機での適用・見た目は未検証です。
+- 設計と使用上の注意は `docs/CLASSIC_MOODY_JA.md` を参照してください。既存23種類は変更していません。
