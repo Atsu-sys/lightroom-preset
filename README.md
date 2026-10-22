@@ -2,7 +2,7 @@
 
 富士フイルム（FUJIFILM）のカメラ向けに、フィルムシミュレーションをベースとして調整したAdobe Lightroom用プリセット集です。Camera Matchingプロファイルを使用し、色彩・階調・粒子感などを撮影対象やスタイルに合わせて整えています。
 
-現在収録している24種類のXMPプリセットは、FUJIFILM X-T5で撮影したRAW（RAF）専用です。他機種での互換性は未確認です。FUJIFILM系のほか、同じCamera Matchingを土台にしたSIGMA BF風・Kodakフィルム風のスタイルを含み、11カテゴリで管理しています。
+現在収録している28種類のXMPプリセットは、FUJIFILM X-T5で撮影したRAW（RAF）専用です。他機種での互換性は未確認です。FUJIFILM系のほか、同じCamera Matchingを土台にしたSIGMA BF風・Kodakフィルム風のスタイルを含み、11カテゴリで管理しています。
 
 ## フォルダー構成
 
@@ -12,16 +12,16 @@ presets/
     FUJIFILM/         3種類
     KODAK/            1種類
   Landscape/
-    FUJIFILM/         5種類
+    FUJIFILM/         6種類
     KODAK/            1種類
     SIGMA BF/         1種類
   Night & Event/
-    FUJIFILM/         2種類
+    FUJIFILM/         3種類
   Portrait/
-    FUJIFILM/         4種類
+    FUJIFILM/         5種類
     KODAK/            2種類
   Street & Travel/
-    FUJIFILM/         2種類
+    FUJIFILM/         3種類
     KODAK/            2種類
     SIGMA BF/         1種類
 docs/
@@ -60,3 +60,16 @@ Kodak系はFUJIFILM Camera Matchingをベースにした近似表現です。
 - カメラ内レシピの直接変換ではなく、参考画像から設計した近似表現です。フラットな光を参考写真と同じ強い陰影に変えるものではありません。
 - 新規XMPのXML・プロファイル・名称・カテゴリ・重複・チェックサムを検証。Lightroom実機での適用・見た目は未検証です。
 - 設計と使用上の注意は `docs/CLASSIC_MOODY_JA.md` を参照してください。既存23種類は変更していません。
+
+## シネマ系コレクション（2026-10-22追加）
+
+| プリセット | カテゴリ | Camera Matching | 特徴 |
+|---|---|---|---|
+| ETERNA - Cinema Daylight | Street & Travel / FUJIFILM | Camera ETERNA/Cinema | Soft daylight cinema, restrained greens, gentle warm highlights and subtle cool shadows. |
+| ETERNA - Neon Afterglow | Night & Event / FUJIFILM | Camera ETERNA/Cinema | Deep city-night blacks, cool cyan shadows, preserved warm signage and softened neon highlights. |
+| ETERNA Bleach Bypass - Silver Horizon | Landscape / FUJIFILM | Camera ETERNA BLEACH BYPASS | Dry desaturated landscape cinema, metallic cool shadows, restrained contrast and detailed highlights. |
+| Nostalgic Neg - Cinema Reverie | Portrait / FUJIFILM | Camera NOSTALGIC Neg | Intimate portrait cinema, amber highlights, muted greens and subtle cool shadows with soft skin detail. |
+
+4種類ともX-T5 RAF専用。露出・ホワイトバランス・ノイズ低減・レンズ補正は固定しません。自然な明暗差を保ち、弱いカラーグレーディングと粒子で映画的な階調を狙った設計です。Lightroom実機での見た目は未検証です。
+
+追加4種類の配布ZIP： [XT5_Cinema_Presets_4_2026_10_22.zip](downloads/XT5_Cinema_Presets_4_2026_10_22.zip)。詳しくは [シネマ系の説明](docs/CINEMA_COLLECTION_JA.md) を参照してください。

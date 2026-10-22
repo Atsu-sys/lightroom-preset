@@ -310,9 +310,13 @@ RAW用の編集項目には以下を使用できます。
 
 # 7. 現在のプリセットライブラリ
 
-2026年10月22日時点で、**合計24種類のRAWプリセットを管理する構成**になっています。
+2026年10月22日時点で、**合計28種類のRAWプリセットを管理する構成**になっています。
 
-全24種類の名称・設定は、INDEX.csv と presets/ 内のXMPを参照してください。更新・統合・再生成では実ファイルを読み込み、未指定の設定とUUIDを維持します。実ファイルがない場合、本書だけから全設定を復元したと扱わないでください。
+全28種類の名称・設定は、INDEX.csv と presets/ 内のXMPを参照してください。更新・統合・再生成では実ファイルを読み込み、未指定の設定とUUIDを維持します。実ファイルがない場合、本書だけから全設定を復元したと扱わないでください。
+
+## シネマ系追加コレクション（4種類）
+
+4種類ともフィルムシミュレーションのCamera Matchingを使用する。ETERNA - Cinema Daylight（Street & Travel / FUJIFILM）、ETERNA - Neon Afterglow（Night & Event / FUJIFILM）、ETERNA Bleach Bypass - Silver Horizon（Landscape / FUJIFILM）、Nostalgic Neg - Cinema Reverie（Portrait / FUJIFILM）。正確なプロファイル名はINDEX.csv、設計と使用上の注意はdocs/CINEMA_COLLECTION_JA.mdを参照。Nostalgic Negは既存の検証済みLookを継承して二重指定する。
 
 ## Classic Chrome追加コレクション（1種類）
 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/">
+  <rdf:RDF>
+    <rdf:Description rdf:about="" crs:PresetType="Normal" crs:UUID="556BD313AC6F421C926E1B06450D1A49" crs:SupportsAmount="False" crs:SupportsColor="True" crs:SupportsMonochrome="False" crs:SupportsNormalDynamicRange="True" crs:SupportsHighDynamicRange="False" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="False" crs:CameraModelRestriction="Fujifilm X-T5" crs:Version="15.0" crs:ProcessVersion="11.0" crs:HasSettings="True" crs:Treatment="Color" crs:ConvertToGrayscale="False" crs:CameraProfile="Camera ETERNA/Cinema" crs:Contrast2012="6" crs:Highlights2012="-38" crs:Shadows2012="18" crs:Whites2012="-16" crs:Blacks2012="-8" crs:Texture="-2" crs:Clarity2012="-3" crs:Dehaze="0" crs:Vibrance="8" crs:Saturation="-4" crs:Sharpness="35" crs:SharpenRadius="1.0" crs:SharpenDetail="20" crs:SharpenEdgeMasking="45" crs:SplitToningShadowHue="205" crs:SplitToningShadowSaturation="5" crs:SplitToningHighlightHue="43" crs:SplitToningHighlightSaturation="7" crs:SplitToningBalance="8" crs:ColorGradeMidtoneHue="0" crs:ColorGradeMidtoneSat="0" crs:ColorGradeShadowLum="0" crs:ColorGradeMidtoneLum="0" crs:ColorGradeHighlightLum="0" crs:ColorGradeBlending="60" crs:ColorGradeGlobalHue="0" crs:ColorGradeGlobalSat="0" crs:ColorGradeGlobalLum="0" crs:GrainAmount="12" crs:GrainSize="24" crs:GrainFrequency="48" crs:PostCropVignetteAmount="0" crs:ToneCurveName2012="Custom" crs:HueAdjustmentRed="0" crs:SaturationAdjustmentRed="0" crs:LuminanceAdjustmentRed="0" crs:HueAdjustmentOrange="0" crs:SaturationAdjustmentOrange="0" crs:LuminanceAdjustmentOrange="5" crs:HueAdjustmentYellow="0" crs:SaturationAdjustmentYellow="-12" crs:LuminanceAdjustmentYellow="0" crs:HueAdjustmentGreen="8" crs:SaturationAdjustmentGreen="-18" crs:LuminanceAdjustmentGreen="0" crs:HueAdjustmentAqua="0" crs:SaturationAdjustmentAqua="0" crs:LuminanceAdjustmentAqua="0" crs:HueAdjustmentBlue="0" crs:SaturationAdjustmentBlue="-8" crs:LuminanceAdjustmentBlue="0" crs:HueAdjustmentPurple="0" crs:SaturationAdjustmentPurple="0" crs:LuminanceAdjustmentPurple="0" crs:HueAdjustmentMagenta="0" crs:SaturationAdjustmentMagenta="0" crs:LuminanceAdjustmentMagenta="0">
+      <crs:Name>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">ETERNA - Cinema Daylight</rdf:li>
+        </rdf:Alt>
+      </crs:Name>
+      <crs:SortName>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">ETERNA - Cinema Daylight</rdf:li>
+        </rdf:Alt>
+      </crs:SortName>
+      <crs:Group>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Street &amp; Travel / FUJIFILM</rdf:li>
+        </rdf:Alt>
+      </crs:Group>
+      <crs:Description>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">FUJIFILM X-T5 RAF | Soft daylight cinema, restrained greens, gentle warm highlights and subtle cool shadows. Exposure and white balance unfixed. Lightroom appearance unverified.</rdf:li>
+        </rdf:Alt>
+      </crs:Description>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 3</rdf:li>
+          <rdf:li>32, 28</rdf:li>
+          <rdf:li>64, 60</rdf:li>
+          <rdf:li>128, 128</rdf:li>
+          <rdf:li>192, 194</rdf:li>
+          <rdf:li>224, 222</rdf:li>
+          <rdf:li>255, 250</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Red>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Red>
+      <crs:ToneCurvePV2012Green>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Green>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
